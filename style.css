@@ -54,7 +54,7 @@ section {
 
 /* Section hover effect */
 section:hover {
-    transform: scale(1.05); /* Slightly enlarge the box */
+    transform: scale(1.00); /* Slightly enlarge the box */
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Enhance the shadow effect */
 }
 
