@@ -8,9 +8,9 @@ body {
     line-height: 1.6;
 }
 
-/* Style the header with a gradient and modern design */
+/* Style the header with a light navy blue gradient */
 header {
-    background: linear-gradient(90deg, #4CAF50, #388E3C);
+    background: linear-gradient(90deg, #4A90E2, #357ABD);
     color: white;
     padding: 30px 20px;
     text-align: center;
@@ -39,20 +39,20 @@ section {
 /* Add a hover effect for the section */
 section:hover {
     transform: translateY(-5px);
-    box-shadow: 0 12px 20px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 12px 20px rgba(53, 122, 189, 0.15);
 }
 
 /* Improve link styles for a modern web aesthetic */
 a {
-    color: #4A90E2;
+    color: #357ABD;
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s ease, text-shadow 0.3s ease;
 }
 
 a:hover {
-    color: #4CAF50;
-    text-shadow: 0 2px 5px rgba(76, 175, 80, 0.4);
+    color: #5BA9F0;
+    text-shadow: 0 2px 5px rgba(74, 144, 226, 0.4);
     text-decoration: underline;
 }
 
