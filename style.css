@@ -48,14 +48,14 @@ section {
     padding: 20px;
     margin: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s ease, box-shadow 0.3s ease; /* Add smooth transition */
+    transition: transform 0.2s ease, box-shadow 0.3s ease; /* Smooth transition */
     cursor: pointer; /* Change cursor to indicate interactivity */
 }
 
-/* Section hover effect */
+/* Milder Section hover effect */
 section:hover {
-    transform: scale(1.00); /* Slightly enlarge the box */
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Enhance the shadow effect */
+    transform: scale(1.02); /* Slightly enlarge the box (milder effect) */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); /* Softer shadow effect */
 }
 
 /* Section headings */
