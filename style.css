@@ -52,9 +52,9 @@ section {
     cursor: pointer; /* Change cursor to indicate interactivity */
 }
 
-/* Very Mild Section hover effect */
+/* Milder hover effect (half of the previous effect) */
 section:hover {
-    transform: scale(1.02); /* Very mild enlarge effect */
+    transform: scale(1.01); /* Very mild enlarge effect (half the previous effect) */
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Softer shadow effect */
 }
 
