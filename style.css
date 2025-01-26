@@ -41,6 +41,21 @@ header p {
     margin-top: 5px;
 }
 
+/* Section styling (adds boxes around text) */
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Section headings */
+section h2 {
+    margin-top: 0;
+    color: #1E3A8A;
+}
+
 /* Top-right buttons container */
 .top-right-buttons {
     position: fixed; /* Ensures the buttons are fixed in the top-right corner */
